@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D872B169-FB96-4319-BE44-F05383244CC2}|Vjezba 2.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 2\\ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D872B169-FB96-4319-BE44-F05383244CC2}|Vjezba 2.vcxproj|solutionrelative:ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZADATAK.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 2\\ZADATAK.c",
+              "RelativeDocumentMoniker": "ZADATAK.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 2\\ZADATAK.c",
+              "RelativeToolTip": "ZADATAK.c",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-16T14:29:19.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
