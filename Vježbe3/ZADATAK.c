@@ -31,6 +31,7 @@ int addBefore(Person* p, char* lastname, char* firstname1, char* lastname1, int 
 int sortList(Person* p);
 int writeFile(Person* p);
 int readFile(Person* p);
+int freeList(Person* p);
 
 int main() {
 
@@ -49,6 +50,7 @@ int main() {
 	sortList(&Head); printList(&Head);
 	writeFile(&Head);
 	readFile(&Head);
+	freeList(&Head);
 
 
 	return 0;
@@ -278,6 +280,20 @@ int readFile(Person* p) {
 	while (fgets(buffer, 255, fp) != NULL) {
 		printf("%s", buffer);
 	}
+
+	return EXIT_SUCCESS;
+}
+
+int freeList(Person* p) {
+	Person* curr = p->next;
+	Person* temp = NULL;
+	while (curr != NULL) {
+		temp = curr;
+		curr = curr->next;
+
+		free(temp);
+	}
+	p->next = NULL;
 
 	return EXIT_SUCCESS;
 }
