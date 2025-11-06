@@ -121,8 +121,8 @@ int evaluatePostfix(Position head, char operator) {
 	q->next = temp; //povezi head sa vrhon (umjesto sa first)
 
 	//oslobodi first i second jer se napravila operacija nad njima 
-	first->next = NULL;
-	second->next = NULL;
+	first->next = NULL; //PAZI!!!
+	second->next = NULL; //PAZI!!!
 	free(first);
 	free(second);
 
@@ -135,6 +135,7 @@ int freeList(Position head) {
 	while (head->next != NULL) {
 		temp = head->next;
 		head->next = temp->next;
+		temp->next = NULL; //PAZI!!! MORAS I OVO OBRISAT DA POKAZIVAC NE OSTANE VISIT!
 		free(temp);
 	}
 
