@@ -1,0 +1,91 @@
+﻿  ZADATAK.c
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(3,67): error C2008: '#': unexpected in macro definition
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(7,1): error C2059: syntax error: '}'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,13): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,48): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,48): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,48): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,52): error C2059: syntax error: ','
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,72): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,97): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,97): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,97): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,101): error C2059: syntax error: ','
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,118): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,142): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,142): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,142): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,146): error C2059: syntax error: ','
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,177): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,205): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,205): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,205): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,209): error C2059: syntax error: ','
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,241): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,267): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,267): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,267): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,271): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,296): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,296): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,296): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,300): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,320): error C2065: 'poly': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,325): error C2146: syntax error: missing ';' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,325): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(9,332): error C2059: syntax error: '{'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(10,2): error C2065: 'poly': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(10,7): error C2146: syntax error: missing ';' before identifier 'head1'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(10,7): error C2065: 'head1': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(10,15): error C2059: syntax error: '{'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,2): error C2065: 'poly': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,7): error C2146: syntax error: missing ';' before identifier 'head2'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,7): error C2065: 'head2': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,15): error C2059: syntax error: '{'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,106): warning C4013: 'openFile' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,116): error C2065: 'head1': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,141): error C2065: 'head2': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,157): warning C4013: 'sumPoly' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,166): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,173): error C2065: 'head1': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,181): error C2065: 'head2': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,190): warning C4013: 'printPoly' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,201): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,210): warning C4013: 'freePoly' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,220): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,229): warning C4013: 'productPoly' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,242): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,249): error C2065: 'head1': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,257): error C2065: 'head2': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,277): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,296): error C2065: 'head': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,314): error C2065: 'head1': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,333): error C2065: 'head2': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,379): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,379): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,379): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,383): error C2059: syntax error: ','
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(11,403): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(28,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(28,20): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(28,34): error C2065: 'poly': undeclared identifier
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(28,9): error C2099: initializer is not a constant
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(29,3): error C2059: syntax error: 'if'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(33,11): error C2143: syntax error: missing '{' before '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(33,11): error C2059: syntax error: '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(34,11): error C2143: syntax error: missing '{' before '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(34,11): error C2059: syntax error: '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(36,11): error C2143: syntax error: missing '{' before '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(36,11): error C2059: syntax error: '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(37,7): error C2143: syntax error: missing '{' before '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(37,7): error C2059: syntax error: '->'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(38,3): error C2099: initializer is not a constant
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(40,18): error C2223: left of '->next' must point to struct/union
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(41,2): error C2059: syntax error: '}'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(41,29): error C2059: syntax error: '}'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(77,24): error C2146: syntax error: missing ')' before identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(77,24): error C2061: syntax error: identifier 'head'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(77,24): error C2059: syntax error: ';'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(77,28): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(77,30): error C2449: found '{' at file scope (missing function header?)
+C:\Users\nikac\OneDrive\Radna površina\strukture2526\Vjezba 4\ZADATAK.c(86,1): error C2059: syntax error: '}'
