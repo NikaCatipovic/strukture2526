@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|solutionrelative:ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\polinom2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|solutionrelative:polinom2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\polinom1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|solutionrelative:polinom1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFDC70BF-EBA3-42DF-A660-4E9408C43CB5}|Vjezba 4.vcxproj|solutionrelative:ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "polinom1.txt",
               "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\polinom1.txt",
               "RelativeDocumentMoniker": "polinom1.txt",
@@ -39,20 +39,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ZADATAK.c",
               "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\ZADATAK.c",
               "RelativeDocumentMoniker": "ZADATAK.c",
               "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\ZADATAK.c",
               "RelativeToolTip": "ZADATAK.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAGUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-06T15:22:23.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "polinom2.txt",
               "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\Vjezba 4\\polinom2.txt",
               "RelativeDocumentMoniker": "polinom2.txt",

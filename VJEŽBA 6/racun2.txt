@@ -1,0 +1,9 @@
+2025 - 11 - 23
+junetina 1 15
+manistra 2 6
+karota 3 0.8
+kapula 2 0.5
+vino 1 8
+mermelada 1 5
+jaja 10 2.9
+mliko 1 0.9

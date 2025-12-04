@@ -1,0 +1,5 @@
+2025 - 12 - 03
+mliko 2 1.6
+jabuka 3 1.8
+kruv 1 2
+cikolata 1 3
