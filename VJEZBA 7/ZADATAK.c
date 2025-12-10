@@ -1,7 +1,7 @@
-/*Napisati program koji pomoæu vezanih listi (stabala) predstavlja strukturu direktorija.
+/* Napisati program koji pomoæu vezanih listi (stabala) predstavlja strukturu direktorija.
 Omoguæiti unos novih direktorija i pod-direktorija, ispis sadržaja direktorija i
 povratak u prethodni direktorij. Toènije program treba preko menija simulirati
-korištenje DOS naredbi: 1- "md", 2 - "cd dir", 3 - "cd..", 4 - "dir" i 5 – izlaz.*/
+korištenje DOS naredbi: 1- "md", 2 - "cd dir", 3 - "cd..", 4 - "dir" i 5 – izlaz. */
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
@@ -20,6 +20,7 @@ typedef struct _directory {
 directoryP createDirectory(const char* name, directoryP parent); 
 int addChild(directoryP parent, directoryP child);
 directoryP cdDir(directoryP current, const char* name);
+int dir(directoryP current);
 
 int main() {
 
@@ -29,24 +30,56 @@ int main() {
 	directoryP root = createDirectory("C:", NULL); //root
 	directoryP current = root;
 
+	printf("1 - md (napravi direktorij)\n");
+	printf("2 - cd dir (udi u poddirektorij)\n");
+	printf("3 - cd.. (vrati se u parent)\n");
+	printf("4 - dir (ispis sadrzaja)\n");
+	printf("5 - exit \n");
+
 	do {
-		printf("1 - md (napravi direktorij)\n");
-		printf("2 - cd dir (udi u poddirektorij)\n");
-		printf("3 - cd.. (vrati se u parent)\n");
-		printf("4 - dir (ispis sadrzaja)\n");
-		printf("5 - exit \n");
+		
 		printf("Unesite izbor: ");
-		scanf("%d", &izbor);
+		scanf(" %d", &izbor); //PAZI OBAVEZNO IDE RAZMAK
 
 		switch (izbor) {
-		case 1:
+		case 1: {
 			printf("Uneiste ime novog direktorija: ");
 			scanf("%s", ime_direktorija);
+			directoryP novi = createDirectory(ime_direktorija, current);
+			if (novi != NULL) {
+				addChild(current, novi);
+			}
+			break;
+		}
+
+		case 2:
+			printf("Unesite ime poddirektorija: ");
+			scanf("%s", ime_direktorija);
 			current = cdDir(current, ime_direktorija);
-			if( novi)
+			break;
+
+		case 3:
+			if (current->parent != NULL) {
+				current = current->parent;
+			}
+			else {
+				printf("Vec ste u root direktoriju!\n");
+			}
+			break;
+		case 4:
+			dir(current);
+			break;
+
+		case 5:
+			printf("EXIT\n");
+			break;
+
+		default:
+			printf("Nedozvoljena opcija!\n");
+			
 
 		}
-	}
+	} while (izbor != 5);
 
 	return 0;
 }
@@ -118,4 +151,26 @@ directoryP cdDir(directoryP current, const char* name) {
 
 
 	return current;
+}
+
+int dir(directoryP current) {
+	//provjera
+	if (current == NULL) {
+		printf("Trenutni direktorij ne postoji!\n");
+		return EXIT_FAILURE;
+	}
+
+	directoryP curr = current->child;
+	if (curr == NULL) {
+		printf("Direktorij '%s' je prazan \n", current->name);
+		return EXIT_SUCCESS;
+	}
+
+	printf("Sadrzaj direktorija '%s' : \n", current->name);
+	while (curr != NULL) {
+		printf("%s\n", curr->name);
+		curr = curr->next;
+	}
+
+	return EXIT_SUCCESS;
 }
