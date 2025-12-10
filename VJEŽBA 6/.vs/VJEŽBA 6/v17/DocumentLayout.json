@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|solutionrelative:ZADATAK.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|solutionrelative:racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|solutionrelative:racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|solutionrelative:racun2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|solutionrelative:racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|solutionrelative:racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F75D1891-C89F-42AE-8D80-989454220BFA}|VJE\u017DBA 6.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "racun3.txt",
               "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun3.txt",
               "RelativeDocumentMoniker": "racun3.txt",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "racun3.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-03T22:32:47.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T22:32:47.741Z"
             },
             {
               "$type": "Document",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "racun2.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-03T22:29:00.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T22:29:00.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "racun1.txt",
               "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\strukture2526\\VJE\u017DBA 6\\racun1.txt",
               "RelativeDocumentMoniker": "racun1.txt",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "racun1.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-03T22:22:18.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T22:22:18.051Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "racuni.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-03T22:21:29.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T22:21:29.194Z"
             }
           ]
         }
