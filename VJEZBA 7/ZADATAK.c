@@ -21,6 +21,8 @@ directoryP createDirectory(const char* name, directoryP parent);
 int addChild(directoryP parent, directoryP child);
 directoryP cdDir(directoryP current, const char* name);
 int dir(directoryP current);
+int printTree(directoryP node, int level);
+int freeDirectory(directoryP root);
 
 int main() {
 
@@ -80,6 +82,9 @@ int main() {
 
 		}
 	} while (izbor != 5);
+
+	printf("KRAJ\n");
+	freeDirectory(root);
 
 	return 0;
 }
@@ -160,17 +165,54 @@ int dir(directoryP current) {
 		return EXIT_FAILURE;
 	}
 
-	directoryP curr = current->child;
-	if (curr == NULL) {
-		printf("Direktorij '%s' je prazan \n", current->name);
-		return EXIT_SUCCESS;
+	directoryP root = current;
+	while (root->parent != NULL) {
+		root = root->parent;
 	}
 
-	printf("Sadrzaj direktorija '%s' : \n", current->name);
-	while (curr != NULL) {
-		printf("%s\n", curr->name);
+	printTree(root, 0);
+
+	return EXIT_SUCCESS;
+}
+
+int printTree(directoryP node, int level) {
+
+	for (int i = 0; i < level; i++) {
+		printf("  ");
+	}
+
+	if (level == 0) {
+		printf("%s\n", node->name);
+	}
+	else {
+		printf("|_%s\n", node->name);
+	}
+
+	directoryP curr = node->child;
+	while (curr) {
+		printTree(curr, level + 1);
 		curr = curr->next;
 	}
+
+	return EXIT_SUCCESS;
+}
+
+
+int freeDirectory(directoryP root) {
+
+	//rekurzivno oslobadanje djece
+	directoryP child = root->child;
+	while (child != NULL) {
+		directoryP nextChild = child->next; //spremi susjeda prije brisanja
+		freeDirectory(child); 
+		child = nextChild; //idi na iduce dijete (susjeda)
+	}
+
+	root->child = NULL;
+	root->next = NULL;
+	root->parent = NULL;
+
+	free(root);
 
 	return EXIT_SUCCESS;
 }
